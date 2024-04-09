@@ -1,4 +1,4 @@
-# Source-Code-Analysis
+# Source-Code-Analysis using GENAI
 
 # How to run?
 ### STEPS:
